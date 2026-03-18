@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:padding="20dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView android:text="Movie Additional Details" android:textSize="22sp" android:textStyle="bold"/>
+    <TextView android:text="Cast: Vijay, Trisha"/>
+    <TextView android:text="Director: Lokesh Kanagaraj"/>
+    <TextView android:text="Music: Anirudh"/>
+    <TextView android:text="Producer: Seven Screen Studio"/>
+</LinearLayout>

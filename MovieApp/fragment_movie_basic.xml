@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:padding="20dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView android:text="Movie Basic Details" android:textSize="22sp" android:textStyle="bold"/>
+    <TextView android:text="Movie ID: 101"/>
+    <TextView android:text="Name: Leo"/>
+    <TextView android:text="Language: Tamil"/>
+    <TextView android:text="Year: 2023"/>
+    <TextView android:text="Category: Action"/>
+    <TextView android:text="Duration: 2h 44m"/>
+    <TextView android:text="IMDB Rating: 7.2/10"/>
+</LinearLayout>
