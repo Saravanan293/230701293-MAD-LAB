@@ -1,0 +1,20 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:padding="20dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:text="Student Basic Details"
+        android:textSize="22sp"
+        android:textStyle="bold"/>
+
+    <TextView android:text="Name: Saravanan"/>
+    <TextView android:text="Age: 20"/>
+    <TextView android:text="Address: Chennai"/>
+
+</LinearLayout>
